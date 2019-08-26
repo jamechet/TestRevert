@@ -1,1 +1,1 @@
-Hello Mate
+Hello
